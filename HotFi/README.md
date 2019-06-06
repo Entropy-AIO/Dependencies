@@ -16,7 +16,7 @@
 
  - 运行游戏，确定当前是最新版本后替换文件（路径：F:\竞技通\32xx文件夹内）
  - 以下三个文件夹全部覆盖进去即可：
-  ![这是图片介绍](https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
+  ![这是图片介绍](https://github.com/Entropy-AIO/Dependencies/blob/master/Other/TW.png)
  - “Game”“LeagueClient”“TCLS”
 
 
@@ -33,7 +33,7 @@
 
  - Start LeagueClient.exe and login your LoL-account.
  - Find LoL-Path：In the new folder\League of Legends.exe（Replace）
-  ![这是图片介绍](https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/NA.png)
+  ![这是图片介绍](https://github.com/Entropy-AIO/Dependencies/blob/master/Other/NA.png)
 
 
 
