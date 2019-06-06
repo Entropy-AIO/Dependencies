@@ -11,11 +11,11 @@ Please read through NonCN Guide below
 	
 # Files / Set up Hotfix
   !Loader: **Download**
-  !Hotfix: **Download**
+  !Hotfix: **Download**(https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
 >Hotfix Guide:
 >
  1. HF文件体会
- 2. ![这是图片介绍](https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
+  ![这是图片介绍](https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
  3. 教学
  4. 自己写
  5. 我再来改
@@ -36,11 +36,11 @@ Please read through NonCN Guide below
 ## Pre-requirements
 
  - Microsoft.net Framework 4.71 above
-  !https://dotnet.microsoft.com/download/dotnet-framework
+   https://dotnet.microsoft.com/download/dotnet-framework
    
  - VC++ Runtime
  - Microsoft DirectX9.0 c above
-  !https://www.microsoft.com/zh-cn/download/windows.aspx
+   https://www.microsoft.com/zh-cn/download/windows.aspx
 
 
 ## Others
