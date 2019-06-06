@@ -10,15 +10,12 @@ Please read through NonCN Guide below
 	> Hotfix will need wait for CN to update. Please find Hotfix from forum or Github.
 	
 # Files / Set up Hotfix
-Loader: **下载连接**
-Hotfix: **下载连接**
+
 >Loader Download:
->
- https://github.com/Entropy-AIO/Dependencies/tree/master/Download
+>https://github.com/Entropy-AIO/Dependencies/tree/master/Download
  
 >Hotfix Download:
->
- https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi
+>https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi
 
 ## Simple Guide
 
@@ -35,13 +32,11 @@ Hotfix: **下载连接**
 ## Pre-requirements
 
 >Microsoft.net Framework 4.71 above
->
- https://dotnet.microsoft.com/download/dotnet-framework
+>https://dotnet.microsoft.com/download/dotnet-framework
  
->VC++ Runtime
->Microsoft DirectX9.0 c above
->
- https://www.microsoft.com/zh-cn/download/windows.aspx
+ 
+>Microsoft DirectX9.0 c above（VC++ Runtime）
+>https://www.microsoft.com/zh-cn/download/windows.aspx
 
 
 ## Others
