@@ -11,8 +11,10 @@ Please read through NonCN Guide below
 	
 # Files / Set up Hotfix
 
->#### [Loader Download](https://github.com/Entropy-AIO/Dependencies/tree/master/Download)
+>#### [Loader Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi)
 >
+
+ 
 >#### [Hotfix Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi)
 >
 
@@ -31,9 +33,7 @@ Please read through NonCN Guide below
 ## Pre-requirements
 
 >####   [Microsoft.net Framework 4.71 above](https://dotnet.microsoft.com/download/dotnet-framework)
->
 >####   [Microsoft DirectX9.0 c above（VC++ Runtime）](https://www.microsoft.com/zh-cn/download/windows.aspx)
->
 
 
 ## Others
