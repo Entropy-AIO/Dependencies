@@ -33,9 +33,7 @@ https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi
 
 ## Pre-requirements
 
->### Microsoft.net Framework 4.71 above
->
-  [Microsoft.net Framework 4.71 above](https://dotnet.microsoft.com/download/dotnet-framework)
+>###  [Microsoft.net Framework 4.71 above](https://dotnet.microsoft.com/download/dotnet-framework)
  
  
 >### Microsoft DirectX9.0 c above（VC++ Runtime）
