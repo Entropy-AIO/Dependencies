@@ -6,8 +6,9 @@
 
 增强刀妹暴力缓存，建议使用“N”或“I”预判。
 
-（耀光可能会导致断Q状态）
 
+## Guide for non CN
+Please read through NonCN Guide file
 
-
-外服替换 9.11.276.4911 HotFi
+外服请使用替换文件 9.11.276.4911 HotFix
+（Garena服务器；RIot服务器）
