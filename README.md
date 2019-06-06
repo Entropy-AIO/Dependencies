@@ -50,3 +50,8 @@ https://www.microsoft.com/zh-cn/download/windows.aspx
  - Inject fail: Could due to update is not done yet, please let after start loader, let it sit for a minute to download updates.
  - HWID: After changing PC, you can do a HWID reset once in every 12 hours.
  - Clear cache: One keep menu settings, and one clear everything
+
+
+
+## Support hero
+  ![支持英雄](https://github.com/Entropy-AIO/Dependencies/blob/master/Other/Champion.jpg)
