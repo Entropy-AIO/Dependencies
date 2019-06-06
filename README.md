@@ -15,9 +15,8 @@ Please read through NonCN Guide below
 >
 https://github.com/Entropy-AIO/Dependencies/tree/master/Download
  
->### Hotfix Download:
+>### [Hotfix Download:](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi)
 >
-https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi
 
 ## Simple Guide
 
@@ -33,8 +32,8 @@ https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi
 
 ## Pre-requirements
 
-#### [Microsoft.net Framework 4.71 above](https://dotnet.microsoft.com/download/dotnet-framework)
-#### [Microsoft DirectX9.0 c above(VC++ Runtime)](https://www.microsoft.com/zh-cn/download/windows.aspx)
+>####   [Microsoft.net Framework 4.71 above](https://dotnet.microsoft.com/download/dotnet-framework)
+>####   [Microsoft DirectX9.0 c above（VC++ Runtime）](https://www.microsoft.com/zh-cn/download/windows.aspx)
 
 
 ## Others
