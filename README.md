@@ -10,8 +10,8 @@ Please read through NonCN Guide below
 	> Hotfix will need wait for CN to update. Please find Hotfix from forum or Github.
 	
 # Files / Set up Hotfix
-Loader: **下载连接**
-Hotfix: **下载连接**
+Loader: **Download**(https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
+Hotfix: **Download**(https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
 >Hotfix Guide:
 >
  1. HF文件体会
