@@ -12,14 +12,13 @@ Please read through NonCN Guide below
 # Files / Set up Hotfix
 Loader: **下载连接**
 Hotfix: **下载连接**
->Hotfix Guide:
->
- 1. HF文件体会
- 2. ![这是图片介绍](https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
+>Loader Download:
+>(https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
  3. 教学
- 4. 自己写
- 5. 我再来改
- 6. 我没图
+ 
+>Hotfix Download:
+>(https://github.com/Entropy-AIO/Dependencies/blob/master/HotFi/TW.png)
+ 3. 教学
 
 ## Simple Guide
 
