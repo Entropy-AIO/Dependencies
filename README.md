@@ -36,9 +36,12 @@ Hotfix: **下载连接**
 ## Pre-requirements
 
  - Microsoft.net Framework 4.71 above
+ 
    https://dotnet.microsoft.com/download/dotnet-framework
+   
  - VC++ Runtime
  - Microsoft DirectX9.0 c above
+ 
    https://www.microsoft.com/zh-cn/download/windows.aspx
 
 
