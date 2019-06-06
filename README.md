@@ -56,4 +56,4 @@ https://www.microsoft.com/zh-cn/download/windows.aspx
 ## Support hero
   ![支持英雄](https://github.com/Entropy-AIO/Dependencies/blob/master/Other/Champion.jpg)
   
-    [支持英雄]https://dotnet.microsoft.com/download/dotnet-framework
+ [支持英雄]https://dotnet.microsoft.com/download/dotnet-framework
