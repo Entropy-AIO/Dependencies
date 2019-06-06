@@ -1,7 +1,6 @@
 ## Guide for non CN
 Please read through Guide below
-
-外服请使用替换文件 9.11.276.4911 HotFix
+9.11.276.4911 HotFix
 （Garena服务器；RIot服务器）
 
 # NON-CN Will Require to use Hotfix
