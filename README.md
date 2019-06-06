@@ -35,7 +35,7 @@ https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi
 
 >### Microsoft.net Framework 4.71 above
 >
-![支持英雄]https://dotnet.microsoft.com/download/dotnet-framework
+  ![支持英雄](https://dotnet.microsoft.com/download/dotnet-framework)
  
  
 >### Microsoft DirectX9.0 c above（VC++ Runtime）
@@ -55,5 +55,3 @@ https://www.microsoft.com/zh-cn/download/windows.aspx
 
 ## Support hero
   ![支持英雄](https://github.com/Entropy-AIO/Dependencies/blob/master/Other/Champion.jpg)
-  
- [支持英雄]https://dotnet.microsoft.com/download/dotnet-framework
