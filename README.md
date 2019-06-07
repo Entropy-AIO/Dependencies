@@ -1,6 +1,3 @@
-# Discord 官方
->#### [Entropy.Discord：https://discord.gg/M2kRvyR](https://discord.gg/M2kRvyR) （Click to add）
-
 ## Guide for non CN
 Please read through Guide below
 
@@ -46,6 +43,9 @@ Please read through Guide below
 >####   [注入错误8 Injection error 8](https://github.com/Entropy-AIO/Dependencies/raw/master/Other/%E6%B3%A8%E5%85%A5%E9%94%99%E8%AF%AF8%20%E5%88%A0%E9%99%A4Win10%E8%87%AA%E5%B8%A6%E9%98%B2%E7%81%AB%E5%A2%99.rar)
 
 
+
+# Discord 官方
+>#### [Entropy.Discord：https://discord.gg/M2kRvyR](https://discord.gg/M2kRvyR) （Click to add）
 
 ## Others
 
