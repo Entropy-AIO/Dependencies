@@ -34,7 +34,7 @@ Please read through Guide below
 >####   [Microsoft.net Framework 4.71 above](https://dotnet.microsoft.com/download/dotnet-framework)
 >
 
->####   [Microsoft DirectX9.0 c above（VC++ Runtime）](https://www.microsoft.com/zh-cn/download/windows.aspx)
+>####   [Microsoft DirectX9.0 c above（VC++ Runtime）](https://www.microsoft.com/zh-cn/download/details.aspx?id=35)
 >
 
 >####   [Menu display error](https://github.com/Entropy-AIO/Dependencies/raw/master/%E5%AD%97%E4%BD%93/msjh.ttc)
