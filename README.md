@@ -13,7 +13,7 @@ Please read through Guide below
 >#### [Loader Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi)
 >
  
->#### [Hotfix Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi)
+>#### [Hotfix Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi) （Click to View Teaching）
 >
 
 
