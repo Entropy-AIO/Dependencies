@@ -30,7 +30,7 @@ Please read through Guide below
 
 
 
-## Pre-requirements
+## Pre-requirements（Error cancellation）
 >####   [Microsoft.net Framework 4.71 above](https://dotnet.microsoft.com/download/dotnet-framework)
 >
 
