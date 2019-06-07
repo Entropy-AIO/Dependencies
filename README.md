@@ -10,10 +10,10 @@ Please read through Guide below
 	> Hotfix will need wait for CN to update. Please find Hotfix from forum or Github.
 	
 # Files / Set up Hotfix
->#### [Loader Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi)
+>#### [Loader Download](https://github.com/Entropy-AIO/Dependencies/tree/master/Download)
 >
  
->#### [Hotfix Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFi) （Click to View Teaching）
+>#### [Hotfix Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFix) （Click to view guide / 外服替換教程）
 >
 
 
