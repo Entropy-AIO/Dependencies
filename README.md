@@ -22,7 +22,7 @@ Please read through Guide below
 
  1. Extra files into an ENT folder
  2. Start Loader as Admin
- >Loader will do auto update, you could run Update to perform manual update.
+ >Loader will do auto update, you could run Update to perform manual update. 
  3. Add script, choose file type as **.ETY** to import scripts
  4. Tick the script you want to load in game
  5. Join a game, and enjoy
