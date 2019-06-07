@@ -1,3 +1,3 @@
 # Discord 官方
 
->#### [Entropy.Discord：Click to add](https://discord.gg/M2kRvyR)
+>#### [Entropy.Discord：https://discord.gg/M2kRvyR](https://discord.gg/M2kRvyR) （Click to add）
