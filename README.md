@@ -4,12 +4,12 @@ Please read through Guide below
 9.11.276.4911 HotFix
 （Garena服务器；RIot服务器）
 
-#@ NON-CN Will Require to use Hotfix
+## NON-CN Will Require to use Hotfix
 
  1. As we do not have enough time to cover everything, please allow us to work slowly, and provide better quality platform.
 	> Hotfix will need wait for CN to update. Please find Hotfix from forum or Github.
 	
-#@ Files / Set up Hotfix
+## Files / Set up Hotfix
 >#### [Loader Download](https://github.com/Entropy-AIO/Dependencies/tree/master/Download)
 >
  
@@ -44,7 +44,7 @@ Please read through Guide below
 
 
 
-#@ Discord / 官方交流组
+## Discord / 官方交流组
 >#### [Entropy.Discord：https://discord.gg/M2kRvyR](https://discord.gg/M2kRvyR) （Click to add）
 
 ## Others
