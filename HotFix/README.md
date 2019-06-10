@@ -27,7 +27,8 @@
  - 右键查看外服游戏目录，最新的“League of Legends.exe”所在位置确定无误
  - 直接让文件夹“Game”内的文件全部覆盖进去即可：
  
- 
+## Riot Teaching
+>####   [Click to view the teaching](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFix/Riot%20Teaching.mp4)
  
 ## NA_EU_GAS...Riot Server HotFix：
 
