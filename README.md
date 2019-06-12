@@ -1,23 +1,3 @@
-__**Contributor Rank (Support)**__
--Able to help users with their questions
--Provide guides to users
-*DO NOT DM FOR RANK, EARN IT YOURSELF.*
-
-__**Trial Dev Rank**__
--Provide at least 3 scripts & stay activate
--Able to keep script up to date
--At least work with ENT for 1 week
-
-__**Dev Rank**__
--Provide at least 6 scripts & stay activate
--Able to keep script up to date
--Get this rank from trial dev rank, unless provide works from other platforms
-
-__***All ranks will grant free access to the software; Will remove rank when not active.***___
-
-__***Trial keys will be given to Trial Dev through Admin (Contact Challenger Rank)***__
-
-
 # Guide for non CN
 Please read through Guide below
 
