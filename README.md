@@ -12,7 +12,7 @@ Please read through Guide below
 ## Files / Set up Hotfix
 >#### [Loader Download](https://github.com/Entropy-AIO/Dependencies/tree/master/Download)
 >
- 
+  
 >#### [Hotfix Download](https://github.com/Entropy-AIO/Dependencies/tree/master/HotFix) （Click to view guide / 外服替換教程）
 >
 
