@@ -1,5 +1,5 @@
-## 菜单显示乱码
->下载“字体”并安装，重新进入游戏即可解决菜单乱码。
+## 乱码修复
+>游戏中，菜单乱码显示“???”请安装该字体进行修复。
   
 ## Menu display error
 >Install“msjh.ttc” reload the Entropy
