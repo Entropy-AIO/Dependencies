@@ -1,6 +1,6 @@
 # Shopping address
 
- 1. Chinese users（RMB）
+ -  Chinese users（RMB）
 	> https://www.510ka.com/links/8A4A479A
 
 
@@ -12,7 +12,7 @@ Please read through Guide below
 
 ## NON-CN Will Require to use Hotfix
 
- 1. As we do not have enough time to cover everything, please allow us to work slowly, and provide better quality platform.
+ -  As we do not have enough time to cover everything, please allow us to work slowly, and provide better quality platform.
 	> Hotfix will need wait for CN to update. Please find Hotfix from forum or Github.
 	
 ## Files / Set up Hotfix
