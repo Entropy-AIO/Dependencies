@@ -1,6 +1,6 @@
 # Shopping address
 
- -  Chinese users（RMB）
+ -  仅限人民币购买地址：Chinese users（RMB）
 	> https://www.510ka.com/links/8A4A479A
 
 
