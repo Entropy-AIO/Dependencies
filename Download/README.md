@@ -1,7 +1,7 @@
 # 更新日志： Update log
 2019-6-23 20:14:05
 
-	Entropy v1.10.0.0 测试版 Beta
+	##Entropy v1.10.0.3 测试版 Beta
 	本版本存在不顯示選項問題，將會很快修復。
 	更新內容：
 	1.更改基礎
@@ -14,7 +14,7 @@
 	8.更新躲避
 	9.更新AIO
 	
-	Entropy v1.10.0.0 new Bete
+	##Entropy v1.10.0.3 new Bete
 	This version has a problem with no display options and will be fixed soon.
 	update content:
 	1. Change the basis
@@ -26,7 +26,10 @@
 	7. Update Utilities
 	8. Update Evade
 	9. Update AIO
-
+	
+	##Entropy v1.10.0.8 中文 Old.exe
+	完美旧版本，附加英雄缓存高级设置。
+	Perfect old version, additional hero cache advanced settings.
 
 2019-06-20 16:56:37
 
