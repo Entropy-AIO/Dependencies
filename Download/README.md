@@ -1,4 +1,20 @@
 # 更新日志： Update log
+2019-6-26 04:21:23
+
+	Entropy v1.10.0.4 中文 Beta
+	中国用户建议直接安装该版本使用，该版本默认值即可正常使用，无需调节基础。
+	1. 使用过“Entropy”的友人们，请先点击加载器上的“完全清理缓存”
+	2. 清理完成后关闭“Entropy”然后在做下一步安装
+	3. "Entropy"安装完成后，默认勾选脚本即可进入游戏
+	（使用前请确保运行库是否已完成安装）
+	
+	Entropy v1.10.0.3 English Bete
+	English version of the friends, you can install this version directly. The built-in options have been set and the basic functionality is optimal.
+	1. Friends who have used "Entropy", please click "Reset Cache" on the loader.
+	2. Close "Entropy" after cleaning is complete and then do the next step.
+	3. After the installation of "Entropy" is completed, the script is selected by default to enter the game.
+	(Be sure to check if the environment is installed before use)
+
 2019-6-23 20:14:05
 
 	Entropy v1.10.0.3 测试版 Beta
