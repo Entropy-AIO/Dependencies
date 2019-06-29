@@ -1,4 +1,10 @@
 # 更新日志： Update log
+2019-6-30 03:35:00
+
+	Entropy v1.11.0.2 中文 Beta 英雄缓存
+	调试完成的英雄脚本，如果存在崩溃请使用纯净版。
+	Chinese: Set and debug the completed champion
+
 2019-6-30 02:03:20
 
 	Entropy v1.11.0.2
