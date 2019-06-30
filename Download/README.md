@@ -1,4 +1,23 @@
 # 更新日志： Update log
+2019-6-30 03:35:00
+
+	Entropy v1.11.0.2 中文 Beta 英雄缓存
+	调试完成的英雄脚本，如果存在崩溃请使用纯净版。
+	Chinese: Set and debug the completed champion
+
+2019-6-30 02:03:20
+
+	Entropy v1.11.0.2
+	1. 修复减少游戏中降低FPS
+	2. 修复预判问题
+	3. 增强走砍移动
+	4. 英雄技能释放
+	
+	1. Solve the problem of prejudging
+	2. Strengthen AA
+	3. Hero skill release`
+	4. Fix to reduce FPS in game reduction
+
 2019-6-26 13:16:07
 
 	Entropy v1.10.0.9 中文 完美精简老版本
@@ -9,7 +28,7 @@
 	（升級全新版建議刪除緩存文件後再安裝全新版本，不然無法更新）
 	（緩存位置：C:\ETY）
 
-2019-6-26 04:21:23
+2019-6-26 13:16:07
 
 	Entropy v1.10.0.4 中文 Beta
 	中国用户建议直接安装该版本使用，该版本默认值即可正常使用，无需调节基础。
