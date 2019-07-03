@@ -1,4 +1,40 @@
 # 更新日志： Update log
+2019年7月4日 00:53:33
+
+	更新中文汉化
+	躲避
+	  1.调整默认值
+	  2.增强躲避反应时间
+	  3.添加多人时个性化
+	  4.添加重新计算路径
+	活化剂
+	神意识
+	  1.精准检测大龙监视
+	  2.美化突进效果
+	弑神合集
+	  1.汉化多个英雄
+	  2.修改清线默认按键 “L”
+	  3.修正瑞文 Beta
+	  4.增强金克丝
+	  5.增强老鼠
+	  6.增强刀妹
+	  7.增强亚索
+	  8.增强安妮
+	  9.增强卡尔马
+
+	工具集（旧版）
+	  ·本版本仅限老核心使用，新版可能存在报错。使用前请先清空所有缓存
+	  
+2019-07-04 00:34:15
+
+	Update the English version
+	Evade
+	Activator
+	Awareness
+	AIO
+	Utilities Chinese（Old）
+	  · This version is only available to the old core, and the new version may have an error. Please clear all caches before use.
+
 2019-6-30 03:35:00
 
 	Entropy v1.11.0.2 中文 Beta 英雄缓存
