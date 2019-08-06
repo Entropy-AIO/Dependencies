@@ -1,4 +1,10 @@
 ﻿# 更新日志： Update log
+2019年8月6日 03:40:23 
+
+	Entropy v1.11.0.10 Beta
+	Activator
+	  ·An error occurred and I am waiting for the fix.
+	  
 2019年7月4日 00:53:33  
 
 	更新中文汉化
