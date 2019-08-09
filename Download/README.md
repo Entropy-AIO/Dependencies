@@ -1,5 +1,5 @@
 ﻿# 更新日志： Update log
-2019年8月6日 03:40:23 
+2019年8月6日 03:40:23
 
 	Entropy v1.11.0.10 Beta
 	Activator
